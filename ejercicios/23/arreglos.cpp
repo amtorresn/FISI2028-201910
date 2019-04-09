@@ -2,7 +2,7 @@
 using namespace std;
  
 int main () {
-  double a[4] = {-3.0, 1, 2.0, 200.0, };
+  double a[4] = {-3.0, 1, 2.0, 200.0};
   double *puntero;
   int i;
 
